@@ -1,6 +1,5 @@
-# UNO-R3-grbl-1.1f-SHIELD
+# UNO-R3-grbl-1.1f-SHIELD. This is the classic Arduino UNO R3 Shield that supports grbl1.1f.
 
-This is the classic Arduino UNO R3 Shield that supports grbl1.1f.
 
 Features include:
 
